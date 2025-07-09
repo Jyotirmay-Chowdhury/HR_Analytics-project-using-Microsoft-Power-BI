@@ -1,7 +1,12 @@
 # HR_Analytics-project-using-Microsoft-Power-BI
-HR Analytics is the practice of using data analysis techniques and tools to gain insights into human resources operations and workforce performance.
+### HR Analytics is the practice of using data analysis techniques and tools to gain insights into human resources operations and workforce performance.
 
-The aim of HR Analytics is to improve decision-making related to recruitment, employee retention, training and development, performance management, and other HR functions.
+### The dashboard looks like this:- 
+
+![DashboardPreview](https://github.com/Jyotirmay-Chowdhury/HR_Analytics-project-using-Microsoft-Power-BI/blob/main/HR_Analytics%20Dashboard-PDF.jpg)
+
+
+## The aim of HR Analytics is to improve decision-making related to recruitment, employee retention, training and development, performance management, and other HR functions.
 A Data Analytics project in HR Analytics could involve the following steps:
 1) Define the problem: The first step is to define the problem or business question that needs to be addressed. This could be related to employee turnover, diversity and inclusion, employee engagement, or other HR metrics.
 2) Collect data: The next step is to collect data related to the problem. This could include data from HR information systems, employee surveys, performance reviews, and other sources.
